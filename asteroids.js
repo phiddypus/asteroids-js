@@ -1,7 +1,3 @@
-//Hello! Welcome to this asteroids remake. the constants below are some of the settings you can tweak. Have fun and feel free to explore the code! Don't be afraid to ask me if you want to understand something in here!
-
-
-
 const
     CANVAS_SIZE = Math.min(window.innerHeight, window.innerWidth) - 50,
     DIFFICULTY = 0.3, // number bw 0 and 1
